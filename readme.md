@@ -1,1 +1,3 @@
 hello, this is fanttasy's PersonalPage...
+
+I'll start devloping now.
